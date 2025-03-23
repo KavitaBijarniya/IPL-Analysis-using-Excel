@@ -1,3 +1,4 @@
 # IPL-Analysis-using-Excel
 
-![Screenshot (101)](https://github.com/user-attachments/assets/c5ab5fb6-8728-4b35-b865-fce5aba1b16a)
+![Screenshot (101)](https://github.com/user-attachments/assets/3e652f9b-bcc8-4421-92df-ef73de277e07)
+
